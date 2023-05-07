@@ -1,4 +1,4 @@
-# -> Project implementation stopped: "[react/no-unknown-property] rule conflicts with @react-three/fiber on <mesh /> and other tags" 
+# Project implementation stopped: react/no-unknown-property rule conflicts with @react-three/fiber on mesh and other tags" 
 
 # 3D website portfolio
 
